@@ -1,4 +1,4 @@
-# 🌡️ 2️⃣ Linux I2C Temperature Sensor Driver – Simulated TMP102
+# 🌡️ Linux I2C Temperature Sensor Driver – Simulated TMP102
 
 A simulated Linux I2C client driver that mimics the behavior of a TMP102 temperature sensor.
 It demonstrates I2C driver registration, sysfs interface creation, and probe/remove routines — all runnable without actual hardware.
